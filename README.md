@@ -1,4 +1,4 @@
-# Duke project template
+# Duke
 
 This is a greenfield Java project with the name _Duke_. It's designed to be a todo list application with CLI like commands, with a GUI to help!
 
