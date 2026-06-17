@@ -1,6 +1,8 @@
-# duke.duke project template
+# Duke project template
 
-This is a project template for a greenfield Java project. It's named after the Java mascot _Duke_. Given below are instructions on how to use it.
+This is a greenfield Java project with the name _Duke_. It's designed to be a todo list application with CLI like commands, with a GUI to help!
+
+Given below are instructions on how to set it up.
 
 ## Setting up in Intellij
 
